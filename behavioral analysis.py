@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Sep 21 11:39:30 2021
-
-@author: ZCS0349
-"""
-
 import pandas as pd
 import os
 os.chdir('//tedfil01/DataDropDEV/PythonPOC')
