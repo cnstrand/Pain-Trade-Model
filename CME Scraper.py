@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Aug  8 11:01:42 2022
-
-@author: ZCS0349
-"""
-
 import pandas as pd
 import pyodbc
 import datetime as dt
